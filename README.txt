@@ -1,4 +1,4 @@
-kannel config for Huawei E352
+kannel config for Huawei e173
 =============
 
 1. List USB device
