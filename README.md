@@ -1,0 +1,4 @@
+kannel-config
+=============
+
+Kannel config
